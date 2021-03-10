@@ -1,4 +1,35 @@
 body{
-    color:lightsalmon;
-    background:lightskyblue;
+ 
+    text-align: center;
+}
+
+.layout
+{
+    height:90%;
+    width:30%;
+    border-style:ridge;
+    border-color: teal;
+    margin: auto;
+    margin-top: 20px;
+    padding:15px 15px 15px 15px;
+
+    background-color: whitesmoke;
+}
+
+#resultdisplay
+{
+    border-style: ridge;
+
+}
+
+.keypad
+{
+    padding: 35px 65px 65px 65px;
+}
+
+.button
+{
+    margin:3px 3px 3px 3px;
+    width:55px;
+
 }
